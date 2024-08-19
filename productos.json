@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Tartas de Diseño",
+    "description": "Cuentanos tu idea y crearemos algo especialmente para ti.\nDisponible desde 10 porciones en adelante.",
+    "image": "img/IMG_PRO_01.png"
+  },
+  {
+    "id": 2,
+    "name": "Tartas Frias",
+    "description": "Disfruta de los mejores sabores con diseños totalmente personalizados\nDisponible desde 4 porciones en adelante.",
+    "image": "img/IMG_PRO_02.png"
+  },
+  {
+    "id": 3,
+    "name": "Tartas Decoradas",
+    "description": "Explora nuestra variedad de sabores encuentra tu preferido. elige, arma y personaliza como mas te guste.\nDisponible desde 4 porciones en adelante.",
+    "image": "img/IMG_PRO_03.png"
+  },
+  {
+    "id": 4,
+    "name": "Cakepops y Cakesicles",
+    "description": "El detalle perfecto para sorprender a esa persona que tanto quieres.\nCaja sensacion desde 4 unidades en adelante.",
+    "image": "img/IMG_PRO_04.png"
+  },
+  {
+    "id": 5,
+    "name": "Mesa de Postres",
+    "description": "La mejor opción en tu mesa\nCada opcion de 6 unidades en adelante.",
+    "image": "img/IMG_PRO_05.png"
+  },
+  {
+    "id": 6,
+    "name": "Cupcakes",
+    "description": "Regala y sorprende con nuestros cupcakes personalizados con detalles exclusivos para tu persona favorita..",
+    "image": "img/IMG_PRO_06.png"
+  },
+  {
+    "id": 7,
+    "name": "NumbersCakes",
+    "description": "Detalles que marcan la diferencia\nDesde 3 prociones en adelante.",
+    "image": "img/IMG_PRO_07.png"
+  },
+  {
+    "id": 8,
+    "name": "Otros postres...",
+    "description": "Brownies\nGalletas decoradas\nMini shots\nGalletas New York Cookies\nContamos con gran variedad de productos.",
+    "image": "img/IMG_PRO_08.png"
+  }
+]

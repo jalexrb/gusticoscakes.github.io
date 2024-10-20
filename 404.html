@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=./index.html?path=">
+    <script>
+      // Redirige cualquier 404 a la página principal con la ruta solicitada
+      var pathname = window.location.pathname;
+      var newUrl = "/index.html?path=" + pathname;
+      window.location.replace(newUrl);
+    </script>
+  </head>
+  <body></body>
+</html>
